@@ -1,16 +1,21 @@
 _repo: Crystal-River-Saga-The-Lore-of-the-Colorado-Rockies_57923
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Francis, William Lamartine
     gutenberg_agent_id: '49686'
     url: http://www.gutenberg.org/2009/agents/49686
+covers:
+- cover_type: archival
+  image_path: 57923-h/images/cover.jpg
 creator:
   author:
     agent_name: Francis, Theresa V. Hermon
     gutenberg_agent_id: '49685'
     url: http://www.gutenberg.org/2009/agents/49685
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57923#Crystal-River-Saga-The-Lore-of-the-Colorado-Rockies
 gutenberg_issued: '2018-09-18'
 gutenberg_type: Text
 identifiers:
